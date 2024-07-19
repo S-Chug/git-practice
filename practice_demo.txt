@@ -1,2 +1,2 @@
 stuti chug 
-hello git this is my git
+git is awsome
